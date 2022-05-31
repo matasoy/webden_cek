@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-import re
-liste = list()
+#import pandas as pd
+#import re
+#liste = list()
 
 
 #arama sayfası sayısı benim örneğimde 150 idi
