@@ -9,7 +9,7 @@ pip install requests<br>
 pip install BeautifulSoup4<br>
 
 <p>Ardından script dosyasını indirin. Bulunduğu klasörde CMD komut panelini açın, powershell de olur. Mesela ilgili klasörde cmd açmak için klasörün adres çubuğuna elinizde cmd yazıp entera basarsanız cmd o dizin için açılacaktır. Ve PATHe ekleme işini yaptıysanız "python script.py" yazıp enterladığınızda script çalışacaktır. Hata alırsanız bu ekranda gözükecektir. PY uzantılı dosyalara çift tıklayabilirsiniz ama işlem bitince birden kapanıyor. CMD ile çalıştırırsanız ekranda kalıyor, kolaylık olur. </p>
-<p>Aşağıdaki bir sitenin arama sonucu sayaflarında nasıl gezinilebileceği izah edilmiştir. Kodda BeautifulSoup4 ile class, id ve tag isimleri ile nasıl sorgulamalar yapılacağına dair bir iki örnek vardır. Daha detaylı örneği https://www.crummy.com/software/BeautifulSoup/bs4/doc/ bu dokümentasyondan inceleyebilirsiniz.</p>
+<p>Aşağıdaki bir sitenin arama sonucu sayaflarında nasıl gezinilebileceği izah edilmiştir. Kodda BeautifulSoup4 ile class, id ve tag isimleri ile nasıl sorgulamalar yapılacağına dair bir iki örnek vardır. Daha detaylı örneği https://www.crummy.com/software/BeautifulSoup/bs4/doc/ bu dokümentasyondan veya buradan https://www.sinanerdinc.com/python-beautifulsoup-modulu inceleyebilirsiniz.</p>
 
 Örnek olarak 
 https://www.internethaber.com/arama?key=kale&page=2<br>
