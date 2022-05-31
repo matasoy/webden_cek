@@ -1,5 +1,12 @@
 # webden_cek
-Web sayfalarının arama listelerinden veri çekme örneği
+Web sayfalarının arama listelerinden veri çekme örneği<br>
+Önce python'u kurun https://www.python.org/downloads/.<br>
+Python exesinin bulunduğu dizini bilgisayarınızın PATH youna eklemelisiniz, benim yol "C:\Users\KULLANICINIZ\AppData\Local\Programs\Python\Python310" idi. Googleda PATH e ekleme diye aratırsanız bulursunuz.<br>
+Sonra pip indirme uygulamasını kurun şurdan bakabilirsiniz http://www.gokmeneskin.com/blog/python-pip-nedir-ve-nasil-kurulur/. <br>
+
+Ardından scripte geçen şu kütüphaneleri kurun.<br>
+pip install requests<br>
+pip install BeautifulSoup4<br>
 
 Örnek olarak 
 https://www.internethaber.com/arama?key=kale&page=2<br>
